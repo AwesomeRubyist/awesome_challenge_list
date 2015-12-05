@@ -1,2 +1,3 @@
-# awesome_challenge_list
-A list of sites with challenges to improve your programming skills
+- [Codewars](https://www.codewars.com/about) - Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback.
+- [Project Euler](https://projecteuler.net) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+- [Codility lessons](https://codility.com/programmers/lessons/)
