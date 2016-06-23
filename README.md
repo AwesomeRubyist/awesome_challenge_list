@@ -4,3 +4,4 @@
 - [Project Euler](https://projecteuler.net) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 - [Codility lessons](https://codility.com/programmers/lessons/)
 - [Practicing Ruby](https://practicingruby.com/) - Delightful lessons for dedicated programmers
+- [Rubeque](http://www.rubeque.com/problems) - Solving ruby koans and problems from easy to deadly hard
