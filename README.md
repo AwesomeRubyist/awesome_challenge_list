@@ -5,3 +5,6 @@
 - [Codility lessons](https://codility.com/programmers/lessons/)
 - [Practicing Ruby](https://practicingruby.com/) - Delightful lessons for dedicated programmers
 - [Rubeque](http://www.rubeque.com/problems) - Solving ruby koans and problems from easy to deadly hard
+- [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - Learn Ruby through a triumphant quest of adventure, love & destiny
+- [CodinGame](https://www.codingame.com/home) - CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics
+- [Ruby Quiz](http://rubyquiz.com) - Ruby Quiz is a programming challenge for Ruby programmers in the spirit of the Perl Quiz of the Week
