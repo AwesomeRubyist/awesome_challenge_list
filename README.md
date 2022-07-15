@@ -10,3 +10,4 @@
 - [Coding Mystery](https://codingmystery.com) - Coding Mystery sends you on a journey of escape-room-inspired mysteries full of coding puzzles, programming challenges, and problem-solving.
 - [CodinGame](https://www.codingame.com/home) - CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics
 - [Ruby Quiz](http://rubyquiz.com) - Ruby Quiz is a programming challenge for Ruby programmers in the spirit of the Perl Quiz of the Week
+- [Paqmind](http://paqmind.com) – Guides and challenges to learn and improve in programming.
